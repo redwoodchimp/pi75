@@ -1,0 +1,6 @@
+*.kicad_pcb-bak
+*.sch-bak
+*.zip
+*.svg
+pi75.pretty/
+fp-info-cache
